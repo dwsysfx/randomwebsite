@@ -79,8 +79,8 @@ body {
   padding-left: 10px;
   padding-top: 2.5px;
   padding-bottom: 2.5px;
-  width: 940px;
-  height: 540px;
+  max-width: 960px;
+  max-height: 540px;
   overflow: hidden;
 }
 
@@ -137,17 +137,4 @@ body {
   padding: 10px;
   border-radius: 30px;
   overflow: hidden;
-}
-
-.button{
-  padding: 15px;
-  font-size: 16px;
-  color: white;
-  text-decoration: none;
-  font-weight: 530;
-  border-radius: 10px;
-}
-
-.github{
-  background-color: var(--background-2);
 }
