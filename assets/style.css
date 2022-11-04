@@ -79,8 +79,9 @@ body {
   padding-left: 10px;
   padding-top: 2.5px;
   padding-bottom: 2.5px;
-  max-width: auto;
-  max-height: 540px;
+  width: 100%;
+  height: auto;
+  
 }
 
 .main {
